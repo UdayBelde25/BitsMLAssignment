@@ -44,7 +44,7 @@ Obesity is a major risk factor for diabetes, heart disease and hypertension. The
 
 <https://github.com/UdayBelde25/BitsMLAssignment>
 
-**Live Streamlit app:** _to be added after deployment_
+**Live Streamlit app:** <https://bitsmlassignment-2025ns04037.streamlit.app/>
 
 ```
 project-folder/
