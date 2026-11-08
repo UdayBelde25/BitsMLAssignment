@@ -1,0 +1,34 @@
+{
+  "target": "NObeyesdad",
+  "class_order": [
+    "Insufficient_Weight",
+    "Normal_Weight",
+    "Overweight_Level_I",
+    "Overweight_Level_II",
+    "Obesity_Type_I",
+    "Obesity_Type_II",
+    "Obesity_Type_III"
+  ],
+  "features": [
+    "Gender",
+    "Age",
+    "Height",
+    "Weight",
+    "family_history_with_overweight",
+    "FAVC",
+    "FCVC",
+    "NCP",
+    "CAEC",
+    "SMOKE",
+    "CH2O",
+    "SCC",
+    "FAF",
+    "TUE",
+    "CALC",
+    "MTRANS"
+  ],
+  "seed": 74,
+  "test_size": 0.25,
+  "n_train": 1565,
+  "n_test": 522
+}
